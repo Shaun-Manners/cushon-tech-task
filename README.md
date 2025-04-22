@@ -112,10 +112,14 @@ docker system prune
 
 ## Possible Improvements
 
+This task is quite broad, I believe deliberately so, in which case I could continue for a while to try and 'complete' it. Below is a list of areas I'd like to improve - more than happy to discuss these!
+
 - Use fixtures and/or json to load test data.
+- Split SweetShop tests into separate files based on functionality to aid in maintaining them as more tests are added.
 - Implement test region environment variable that URLs etc are based on.
 - Implement cross browser/device testing.
 - Docker container runs as root, not ideal!
+- Dockerfile includes ENV for API token, needed to add it as an environment variable in Docker for the purposes of this task, but could be loaded from a secret in the env instead.
 - Dockerfile uses Ubuntu:latest as the base, should probably be pinned to a specific version for consistency.
 - Screenshots could be organised into subdirectories by test name to make them easier to locate.
 - Installing FFMepeg in the container would enable rendering a video of the test exewcutions using the screenshots and timestamp data.
