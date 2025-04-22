@@ -25,3 +25,4 @@ RUN python3 -m venv .venv \
     && .venv/bin/pip freeze > requirements.txt
 
 ENV AIRPORT_GAP_API_TOKEN='xa3z9Bxwf1nTgN9rNMmGSJw5'
+ENV TEST_REGION='integration'

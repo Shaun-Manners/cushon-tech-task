@@ -1,0 +1,5 @@
+{
+    "integration": {
+        "airportgap_api_base_url": "https://airportgap.com/api"
+    }
+}

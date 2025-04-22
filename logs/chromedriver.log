@@ -1,24 +1,24 @@
-[327:349:0422/083247.616691:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:352:0422/083247.620215:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:352:0422/083247.620715:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:349:0422/083247.627553:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:349:0422/083247.627882:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:349:0422/083247.628445:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:349:0422/083247.628672:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:327:0422/083247.649457:INFO:chrome_browser_cloud_management_controller.cc(202)] No machine level policy manager exists.
-[327:349:0422/083247.672883:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:349:0422/083247.692641:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:349:0422/083247.692899:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:327:0422/083247.781229:WARNING:bluez_dbus_manager.cc(234)] Floss manager service not available, cannot set Floss enable/disable.
-[327:327:0422/083247.781630:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[327:327:0422/083247.782986:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[327:327:0422/083247.785531:ERROR:global_accelerator_listener_linux.cc(350)] Failed to connect to signal: org.freedesktop.portal.GlobalShortcuts.Activated
-[327:327:0422/083247.786836:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
-[327:349:0422/083247.788339:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
-[327:423:0422/083247.802891:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:423:0422/083247.803318:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:423:0422/083247.804063:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:423:0422/083247.804636:WARNING:property.cc(149)] DaemonVersion: GetAndBlock: failed.
-[327:423:0422/083247.804899:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:423:0422/083247.805448:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
-[327:327:0422/083247.814240:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[6199:6221:0422/101931.870292:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6224:0422/101931.873480:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6224:0422/101931.873891:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6221:0422/101931.878449:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6221:0422/101931.878706:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6221:0422/101931.878962:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6221:0422/101931.879342:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6199:0422/101931.896144:INFO:chrome_browser_cloud_management_controller.cc(202)] No machine level policy manager exists.
+[6199:6221:0422/101931.914718:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6221:0422/101931.928835:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6221:0422/101931.929122:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6199:0422/101931.990719:WARNING:bluez_dbus_manager.cc(234)] Floss manager service not available, cannot set Floss enable/disable.
+[6199:6199:0422/101931.991125:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[6199:6199:0422/101931.992694:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[6199:6199:0422/101931.995332:ERROR:global_accelerator_listener_linux.cc(350)] Failed to connect to signal: org.freedesktop.portal.GlobalShortcuts.Activated
+[6199:6199:0422/101931.998912:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[6199:6221:0422/101931.999391:ERROR:bus.cc(408)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[6199:6291:0422/101932.009321:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6291:0422/101932.009690:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6291:0422/101932.010049:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6291:0422/101932.010325:WARNING:property.cc(149)] DaemonVersion: GetAndBlock: failed.
+[6199:6291:0422/101932.010598:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6291:0422/101932.010926:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[6199:6199:0422/101932.019034:ERROR:object_proxy.cc(589)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 

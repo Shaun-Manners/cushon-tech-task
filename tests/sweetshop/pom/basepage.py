@@ -1,7 +1,7 @@
 """
 Base page class that contains all common page methods
 """
-
+import logging
 import time
 import datetime
 from selenium.webdriver.common.by import By
@@ -38,4 +38,5 @@ class BasePage:
         formatted_timestamp = datetime_timestamp.strftime('%Y-%m-%d-%H-%M-%S')
 
         filename = f'{self.screenshot_dir}{formatted_timestamp}_{title}.png'
+        logging.debug(f'Taken screenshot: {filename}')
         self.driver.save_screenshot(filename)

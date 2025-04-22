@@ -73,6 +73,13 @@ docker run -it -v .:/src  ubuntu-cushon:latest
 ```shell
 exit
 ```
+### Debugging
+
+Adding debbug logs:
+
+- Edit pytest.ini so that log level is DEBUG
+
+This will output lots of detailed logs to the console as the test run.
 
 ### Reports
 
@@ -125,6 +132,8 @@ This task is quite broad, I believe deliberately so, in which case I could conti
 - Installing FFMepeg in the container would enable rendering a video of the test exewcutions using the screenshots and timestamp data.
 - Add some bash scripts for running the tests and linting, adding aliases to make running the tests a simpler/easy to remember process.
 - Remove incognito argument from chrome and fix the quit/close issue I encountered.
+- Make naming conventions more conistent, for example test_*.py and *_test.py differences.
+- More code comments... way more.
 
 [0]: https://www.docker.com/products/docker-desktop/#:~:text=Download%20Docker%20Desktop
 [1]: https://sweetshop.netlify.app/
